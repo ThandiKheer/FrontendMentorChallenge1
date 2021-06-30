@@ -8,15 +8,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  -[Author](#author)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,24 +29,12 @@ Users should be able to:
 
 - Solution URL: (https://thandikheer.github.io/FrontendMentorChallenge1/)
 
-## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
-### What I learned
-
-
-
-### Continued development
-
-
-### Useful resources
-
-
 
 ## Author
 Anmol Mehta
